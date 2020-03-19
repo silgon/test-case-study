@@ -5,10 +5,6 @@ dependencies:
   - pandas
   - numpy
   - matplotlib
-  - pickle
-  - re
-  - math
   - seaborn
   - nltk
-  - sklearn
-  - warnings
+  - scikit-learn
